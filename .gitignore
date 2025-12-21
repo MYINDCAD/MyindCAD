@@ -4,3 +4,20 @@
 "*.suo" 
 "*.user" 
 "*.userosscache" 
+# Visual Studio
+.vs/
+*.vsidx
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.db
+*.opendb
+*.db-shm
+*.db-wal
+
+# Build directories
+build/
+out/
+bin/
+obj/
