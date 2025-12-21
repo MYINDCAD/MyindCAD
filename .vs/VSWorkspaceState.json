@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\build\\build",
+    "\\core",
+    "\\core\\part",
+    "\\core\\surfacing",
+    "\\out",
+    "\\out\\build"
+  ],
+  "SelectedNode": "\\core\\part\\Point3D.h",
+  "PreviewInSolutionExplorer": false
+}
